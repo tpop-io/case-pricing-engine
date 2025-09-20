@@ -1,0 +1,2 @@
+-- Sample schema (stub)
+-- CREATE TABLE proposal (...);
