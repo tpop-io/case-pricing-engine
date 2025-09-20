@@ -1,0 +1,11 @@
+# Temporary: relax rules for scaffold stubs
+MD002: false   # first header must be top-level
+MD012: false   # multiple consecutive blank lines
+MD013: false   # line length
+MD022: false   # headers need blank lines around
+MD032: false   # lists need blank lines around
+
+ignores:
+  - "analytics/snapshots/**"
+  - "samples/**"
+  - "design/**"
